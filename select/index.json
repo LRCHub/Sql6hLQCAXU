@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "家庭の事情",
+  "base_artist": "ZORN",
+  "createdAt": "2025-12-15T15:05:55.197259Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "家庭の事情",
+      "artist": "ZORN",
+      "has_synced": false,
+      "path": "select/pl_01_家庭の事情_ZORN.txt"
+    }
+  ]
+}
